@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    background-color: #4472c4;
+}
+.container{
+    background-color: #fff;
+    min-height: 100vh;
+}
